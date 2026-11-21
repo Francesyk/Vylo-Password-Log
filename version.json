@@ -1,25 +1,25 @@
 {
-  "version": "1.0.9",
-  "tag": "v1.0.9",
-  "pub_date": "2026-11-19T15:24:28Z",
-  "notes": "Versione 1.0.9 — Compilazione automatica da GitHub Actions.",
-  "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.0.9/Vylo-Setup-x64.exe",
-  "sha256": "e3b2e6f39c8c7cc8d91f08c86a196acdb9ec5ca9addecdb49ad57250a1b2589f",
+  "version": "1.1.0",
+  "tag": "v1.1.0",
+  "pub_date": "2026-11-21T14:02:54Z",
+  "notes": "Versione 1.1.0 — Compilazione automatica da GitHub Actions.",
+  "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.1.0/Vylo-Setup-x64.exe",
+  "sha256": "c0add083f53ca89a95e77bec857a9e294525ff640f853e1340640d9922445f4e",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.0.9/Vylo-Setup-x64.exe",
-      "sha256": "e3b2e6f39c8c7cc8d91f08c86a196acdb9ec5ca9addecdb49ad57250a1b2589f",
-      "size": 26404864
+      "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.1.0/Vylo-Setup-x64.exe",
+      "sha256": "c0add083f53ca89a95e77bec857a9e294525ff640f853e1340640d9922445f4e",
+      "size": 26919936
     },
     "windows-x86": {
-      "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.0.9/Vylo-Setup-x86.exe",
-      "sha256": "ea26e39ca610bc96f464d764dfd0af2d09af39cebcd14cbf53a6d11aec446fa3",
-      "size": 22083584
+      "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.1.0/Vylo-Setup-x86.exe",
+      "sha256": "1bbb1fbe3d5948a6e5cbd6411636665a179f9c87e2f216a88e7adb7d30ed975d",
+      "size": 22609408
     },
     "windows-aarch64": {
-      "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.0.9/Vylo-Setup-arm64.exe",
-      "sha256": "541761eb3d0439d9cf9948bba2e546aeef7474e70addc8b7daee2cc913703cdf",
-      "size": 23435776
+      "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.1.0/Vylo-Setup-arm64.exe",
+      "sha256": "920e5c39ecae802b5498e1e5a67ab44381a93426dd223a5860adce7960ad1192",
+      "size": 23920640
     }
   }
 }
