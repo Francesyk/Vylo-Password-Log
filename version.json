@@ -1,25 +1,25 @@
 {
-  "version": "1.1.1",
-  "tag": "v1.1.1",
-  "pub_date": "2026-11-21T15:11:58Z",
-  "notes": "Versione 1.1.1 — Compilazione automatica da GitHub Actions.",
-  "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.1.1/Vylo-Setup-x64.exe",
-  "sha256": "c319a82fb3e7dc1193b45f6368c101a75530986f5c4d18281b7173abc60229c2",
-  "platforms": {
-    "windows-x86_64": {
-      "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.1.1/Vylo-Setup-x64.exe",
-      "sha256": "c319a82fb3e7dc1193b45f6368c101a75530986f5c4d18281b7173abc60229c2",
-      "size": 27173888
-    },
-    "windows-x86": {
-      "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.1.1/Vylo-Setup-x86.exe",
-      "sha256": "764bc838704cdec491f159fcb9d5e8b25fcefaf1d3370aa4c15e4134dfc56564",
-      "size": 22558208
-    },
-    "windows-aarch64": {
-      "url": "https://github.com/Francesyk/Vylo-Password-Log/releases/download/v1.1.1/Vylo-Setup-arm64.exe",
-      "sha256": "912f1402a54b9efb082a7da951ebfd93c28d734b6bff22999039fdf9cd34b685",
-      "size": 24034816
-    }
-  }
+    "version":  "1.1.2",
+    "tag":  "v1.1.2",
+    "pub_date":  "2026-11-22T20:19:29Z",
+    "notes":  "v1.1.2: Embedding neurali ONNX on-demand (Pacchetto AI Avanzata), architettura ibrida SLM con bridge Ollama locale, parità OCR su Android tramite Google ML Kit, formattazione valuta italiana (€ 30.870,53), separazione importi Spese/Contratti nel Briefing Vylo AI e rifinitura UI.",
+    "url":  "https://github.com/Francesyk/Vylo-Password-Document-Manager/releases/download/v1.1.2/Vylo-Setup-x64.exe",
+    "sha256":  "e84c976b5dcd6f28a7011b2a2a6c2b66c40ad51ffbfc441fdb3b4039dc1e282b",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/Francesyk/Vylo-Password-Document-Manager/releases/download/v1.1.2/Vylo-Setup-x64.exe",
+                                             "sha256":  "e84c976b5dcd6f28a7011b2a2a6c2b66c40ad51ffbfc441fdb3b4039dc1e282b",
+                                             "size":  30180352
+                                         },
+                      "windows-x86":  {
+                                          "url":  "https://github.com/Francesyk/Vylo-Password-Document-Manager/releases/download/v1.1.2/Vylo-Setup-x86.exe",
+                                          "sha256":  "76c9491753b981ac3dc2226d0a05e1c29a7149d102f88ec45038cc227d91a39e",
+                                          "size":  25108992
+                                      },
+                      "windows-aarch64":  {
+                                              "url":  "https://github.com/Francesyk/Vylo-Password-Document-Manager/releases/download/v1.1.2/Vylo-Setup-arm64.exe",
+                                              "sha256":  "3814be13da62c6e3ec940dcdedec8d6618d204ac8ccc41a9af8c94f21ee62bdb",
+                                              "size":  26639872
+                                          }
+                  }
 }
